@@ -4,4 +4,8 @@ Oleg
 Stepan
 Ivan
 Bohdan
+Newton
+Teddy
+Emmanuel
+Edmond
 ...
